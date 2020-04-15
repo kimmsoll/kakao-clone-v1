@@ -214,3 +214,22 @@
 .sent-message {
   animation: sentAnim 0.5s ease-out forwards;
 }
+
+.chat__badge {
+  font-size: 10px;
+  color: white;
+  background-color: #dc5d46;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin-top: 5px;
+}
+
+.chat__time {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
