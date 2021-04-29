@@ -1,2 +1,2 @@
-# kakao-clone-v1
- Kakao Clone Version 2.0
+# KakaoTalk Clone
+- HTML & CSS 를 이용한 카카오톡 클론
